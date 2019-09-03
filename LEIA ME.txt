@@ -1,0 +1,21 @@
+Esses sao os dados que preciso dessa nova leva
+
+
+Nome
+ID Lattes
+Se possui bolsa CNPq
+Vinculo institucional
+Data da ultima atualizacao
+Formação acadêmica/titulação(quero so a graduação se tiver como especificar)
+Projetos de pesquisa
+Projetos de extensão
+Áreas de atuação
+Artigos completos publicados em periódicos
+Capítulos de livros publicados
+Trabalhos completos publicados em anais de congressos
+Resumos expandidos publicados em anais de congressos
+Resumos publicados em anais de congressos
+Apresentações de Trabalho
+Participação em bancas de trabalhos de conclusão
+Participação em eventos, congressos, exposições e feiras
+Orientações e supervisões concluídas	Bolsista 
